@@ -1,0 +1,28 @@
+SKU,Item_Description,Category,Quantity_On_Hand,Unit_Cost
+HW-001,1/4" Hex Bolt,Hardware,1500,0.25
+HW-002,washer 1/4",Hardware,2500,0.05
+HW-003,2" Drywall Screw,Hardware,8500,0.08
+HW-004,Nail 3 inch,Hardware,10000,0.03
+PL-001,PVC Pipe 10ft,Plumbing,50,12.50
+PL-002,Copper Fitting,Plumbing,350,3.75
+PL-003,Teflon Tape Roll,Plumbing,150,1.15
+PL-004,Sink Faucet,Plumbing,15,129.99
+EL-001,12-gauge wire (spool),Electrical,25,75.00
+EL-002,Outlet Box,Electrical,300,1.50
+EL-003,Light Switch single-pole,Electrical,250,2.25
+EL-004,GFCI Outlet,Electrical,75,19.95
+LB-001,2x4 Lumber 8ft,Lumber,400,8.50
+LB-002,Plywood Sheet 4x8,Lumber,120,45.00
+LB-003,Decking Board 12ft,Lumber,200,22.00
+LB-004,Trim Molding 8ft,Lumber,180,9.75
+PN-001,Interior Paint 1 gal,Paint,60,35.50
+PN-002,Paint Roller,Paint,100,6.50
+PN-003,Painter's Tape,Paint,80,4.25
+PN-004,Primer 1 gal,Paint,30,28.00
+MS-001,Caulk Tube,Misc,120,5.50
+MS-002,Safety Glasses,Misc,40,9.99
+MS-003,Work Gloves,Misc,55,14.50
+MS-004,Gorilla Glue,Misc,25,8.75
+HW-005 ,Lag Bolt 3/8",Hardware,500,0.75
+EL-005,Wire Nut Assortment,Electrical,20,25.00
+PL-005,Drain Snake,Plumbing,5,49.99
