@@ -18,8 +18,7 @@ The project uses a hybrid approach, leveraging Python for its powerful data proc
     - Merges inventory and sales data.
     - Calculates key metrics like total inventory value and sales velocity.
     - Enriches the data by flagging items as "Overstock Risk."
-3.  **Data Output:** The clean, analyzed data is exported into a structured Excel file (`Inventory_Dashboard_Data.xlsx`).
-4.  **Dashboarding (TODO):** The final Excel file contains an interactive dashboard with KPIs, charts, and slicers, allowing a manager to explore the data without needing any technical skills.
+3.  **Data Output & Next Steps:** The clean, analysis-ready data is exported into a structured Excel file (`Inventory_Dashboard_Data.xlsx`). This file serves as the clean foundation for building an interactive dashboard with KPIs, PivotTables, and slicers to allow managers to explore the data without technical skills.
 
 ## Business Impact
 This automated workflow provides:
